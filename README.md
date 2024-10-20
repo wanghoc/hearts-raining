@@ -1,1 +1,5 @@
-https://wanghoc.github.io/heart-rainning-copy/
+# WangHoc
+https://wanghoc.github.io/heart-rainning/
+
+# Author
+@WindLapTrinh
